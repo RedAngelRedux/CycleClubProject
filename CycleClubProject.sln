@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FieldValidatorAPI", "FieldValidatorAPI\FieldValidatorAPI.csproj", "{DF52E55D-5E1B-47ED-B6D3-4255D58BC570}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CycleClub", "CycleClub\CycleClub.csproj", "{221CF907-17B1-415C-B45C-49D7DC0A4C02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF52E55D-5E1B-47ED-B6D3-4255D58BC570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF52E55D-5E1B-47ED-B6D3-4255D58BC570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF52E55D-5E1B-47ED-B6D3-4255D58BC570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF52E55D-5E1B-47ED-B6D3-4255D58BC570}.Release|Any CPU.Build.0 = Release|Any CPU
+		{221CF907-17B1-415C-B45C-49D7DC0A4C02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{221CF907-17B1-415C-B45C-49D7DC0A4C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{221CF907-17B1-415C-B45C-49D7DC0A4C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{221CF907-17B1-415C-B45C-49D7DC0A4C02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04EB0A40-33AC-4040-9DFF-F767794AAD04}
+	EndGlobalSection
+EndGlobal
