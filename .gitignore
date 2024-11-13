@@ -1,6 +1,6 @@
-﻿# Ignore project directories
-CycleClub/
+﻿# Ignore Project directories
 FieldValidatorAPI/
+CycleClub/
 
 # Ignore build directories
 bin/
