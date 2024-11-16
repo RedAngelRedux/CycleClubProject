@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\redan\\Documents\\Source\\Repos\\freeCodeCamp\\YouTubeTutorials\\AdvancedCsharp\\CycleClubProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{221CF907-17B1-415C-B45C-49D7DC0A4C02}|CycleClub\\CycleClub.csproj|c:\\users\\redan\\documents\\source\\repos\\freecodecamp\\youtubetutorials\\advancedcsharp\\cycleclubproject\\cycleclub\\views\\mailview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{221CF907-17B1-415C-B45C-49D7DC0A4C02}|CycleClub\\CycleClub.csproj|solutionrelative:cycleclub\\views\\mailview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{221CF907-17B1-415C-B45C-49D7DC0A4C02}|CycleClub\\CycleClub.csproj|c:\\users\\redan\\documents\\source\\repos\\freecodecamp\\youtubetutorials\\advancedcsharp\\cycleclubproject\\cycleclub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{221CF907-17B1-415C-B45C-49D7DC0A4C02}|CycleClub\\CycleClub.csproj|solutionrelative:cycleclub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MailView.cs",
+              "DocumentMoniker": "C:\\Users\\redan\\Documents\\Source\\Repos\\freeCodeCamp\\YouTubeTutorials\\AdvancedCsharp\\CycleClubProject\\CycleClub\\Views\\MailView.cs",
+              "RelativeDocumentMoniker": "CycleClub\\Views\\MailView.cs",
+              "ToolTip": "C:\\Users\\redan\\Documents\\Source\\Repos\\freeCodeCamp\\YouTubeTutorials\\AdvancedCsharp\\CycleClubProject\\CycleClub\\Views\\MailView.cs",
+              "RelativeToolTip": "CycleClub\\Views\\MailView.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIA6wCgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T22:44:17.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\redan\\Documents\\Source\\Repos\\freeCodeCamp\\YouTubeTutorials\\AdvancedCsharp\\CycleClubProject\\CycleClub\\Program.cs",
               "RelativeDocumentMoniker": "CycleClub\\Program.cs",
               "ToolTip": "C:\\Users\\redan\\Documents\\Source\\Repos\\freeCodeCamp\\YouTubeTutorials\\AdvancedCsharp\\CycleClubProject\\CycleClub\\Program.cs",
               "RelativeToolTip": "CycleClub\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T18:59:39.255Z",
+              "WhenOpened": "2024-11-16T22:43:46.141Z",
               "EditorCaption": ""
             }
           ]
